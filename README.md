@@ -1,7 +1,7 @@
 ### (INF0.bin) via► ▼DropDown▼**:
 
 <details>
-<summary>[KLICK](01000101 01110100 01101000 01101001 01101011)</summary>
+<summary> ►KLICK▼ - 01000101 01110100 01101000 01101001 01101011</summary>
 <ul><li>
 <details>
 <summary>I</summary>
